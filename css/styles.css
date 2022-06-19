@@ -1,0 +1,62 @@
+body {
+  background-color: White;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  position: absolute;
+  color: White;
+  font-size: 4em;
+  font-weight: 600;
+  padding-left: 3%;
+  font-family: 'Montserrat', sans-serif;
+  top: 50px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.sec {
+  text-align: center;
+  padding: 4% 4%;
+}
+
+.Download-Button {
+  margin: 5% 3% 5% 0;
+}
+
+#footer {
+  background-color: #0CAFFF;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.ic {
+  margin: 1.5%;
+}
+.topContainer{
+  background-color: #0CAFFF;
+  margin: 0;
+  padding: 0;
+  height:125px;
+}
+.heading2 {
+  position: absolute;
+  color: Black;
+  font-size: 4em;
+  font-weight: 600;
+  padding-left: 25px;
+  font-family: 'Montserrat', sans-serif;
+  top: 25px;
+}
+
+.exp{
+  padding: 25px;
+}
+.im{
+  text-align: center;
+}
